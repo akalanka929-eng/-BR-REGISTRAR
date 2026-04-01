@@ -23,4 +23,4 @@ Backend: Google Apps Script (GAS).
 Database: Google Sheets.
 
 👨‍💻 Developer
-Developed by Akalanka Perera | Seekers Logic.
+Akalanka Perera | Seekers Logic.
